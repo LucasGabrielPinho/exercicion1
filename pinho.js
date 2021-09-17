@@ -25,11 +25,11 @@ const funcionarios = [{"id":1,"nome":"Feodor","sobrenome":"Pheby","email":"fpheb
 {"id":500,"nome":"Pennie","sobrenome":"Batie","email":"pbatiedv@aol.com","genero":"F","cidade":"Awjilah","pais":"Libya","empresa":"Eabox","salario":2.29}]
 */
 
-/* Const para teste
+/* Const para teste */
 const funcionarios =[{"id":1,"nome":"lucas","sobrenome":"Pheby","email":"fpheby0@163.com","genero":"M","cidade":"joinville","pais":"brasil","empresa":"neogrid","salario":5000.00},
 {"id":2,"nome":"rodrigo","sobrenome":"Pheby","email":"fpheby0@163.com","genero":"M","cidade":"itajai","pais":"acre","empresa":"catolica","salario":2000.00},  
 {"id":3,"nome":"kami","sobrenome":"Pheby","email":"fpheby0@163.com","genero":"F","cidade":"sao paulo","pais":"na","empresa":"neogrid","salario":1.00}]
-*/                        
+                    
 
 var salario     = false              // True = maior salario | False = menor salario
 var gen         = "F"                // "M" = masculino | "F" = feminino | "todos" = todos generos
